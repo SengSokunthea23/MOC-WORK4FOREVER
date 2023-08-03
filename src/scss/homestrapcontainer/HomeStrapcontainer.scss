@@ -1,0 +1,33 @@
+.background {
+  background: linear-gradient(#fff, #F5F5F5);
+}
+
+h2 {
+  display: block;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.linkText{
+  display: block;
+    background-color: #fff;
+    border-radius: 2px;
+    border: 2px solid #E5E5E5;
+    border-top: 5px solid #D4451E;
+    height: 175px;
+    text-align: center;
+    padding: 40px 10px;
+    text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+img{
+  width: 100px;
+}
+h5{
+  color: black;
+  font: 22px bold sans-serif;
+  font-family: 'Khmer Muol';
+}

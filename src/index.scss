@@ -1,0 +1,18 @@
+@import url("scss/_header-image.scss");
+@import url("scss/_image-banner.scss");
+@import url("scss/_color-text.scss");
+@import url("scss/_ContainerBestView.scss");
+@import url("scss/_marginbox.scss");
+/*HomeStraps*/
+@import url("scss/homestrap/HomeStraps.scss");
+/*HomeStrap*/
+@import url("scss/homestrapcontainer/HomeStrapcontainer.scss")  ;
+body{
+    font-family: Unlimited Sans,Arial,sans-serif;
+    font-weight: 200;
+    color: #333;
+    position: relative;
+    margin: 0;
+    line-height: 1.42857143;
+    -webkit-font-smoothing: antialiased;
+}
