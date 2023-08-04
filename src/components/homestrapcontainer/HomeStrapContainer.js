@@ -2,9 +2,9 @@ import React from "react";
 function HomeStrapContainer() {
     return (
         <>
-            <div className="album py-5 mb-2 container">
+            <div className="album py-5 mb-2 container" style={{width:"1200px"}}>
                 <div className="pt-5 pb-5">
-                    <div className="px-5">
+                    <div className="px-5 me-4">
                         <h2 className="text-center">Help Pages</h2>
                         <div className="mx-1">
                             <ul className="d-flex justify-content-between">
